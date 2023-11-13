@@ -9,5 +9,11 @@ h1 {
 p {
   text-aling:center;
 }
+
+#missao {
+       font-size: 20px
+}
+
 em strong {
-   color:
+   color: #FF0000;
+}
